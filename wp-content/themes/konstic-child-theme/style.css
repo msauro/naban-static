@@ -1,0 +1,21 @@
+/*------------------------------------------------------------------------------------- 
+Theme Name:		 Konstic Child Theme
+Theme URI:		 http://gramentheme.com/wp/konstic/
+Description:	 Konstic - Construction WordPress Theme
+Author:			 Gramentheme
+Author URI:		 https://themeforest.net/user/gramentheme
+Template:		 konstic
+Version:		 1.0.0
+Text Domain:	 konstic-child-theme
+-------------------------------------------------------------------------------------*/
+/*
+    Please Add your custom styles here
+*/
+
+.elementor-1220 .elementor-element.elementor-element-da4547f > .elementor-widget-container{
+    background-color: transparent!important; 
+}
+
+.elementor-1220 .elementor-element.elementor-element-fce27c3 > .elementor-widget-container{
+    background-color: transparent!important; 
+}
